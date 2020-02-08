@@ -11,7 +11,7 @@ console.log(names[2]);
 console.log(names.length);
 
 // Mutate array data
-names[1] = 'Ben';
+names[1] = 'Ron';
 names[names.length] = 'Mary';
 console.log(names);
 
