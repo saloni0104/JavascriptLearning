@@ -1,4 +1,4 @@
-//  Object.create
+//  create object
 
 var personProto = {
     calculateAge: function() {
