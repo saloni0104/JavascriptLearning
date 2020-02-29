@@ -17,7 +17,7 @@ console.log(job);
 var firstName = 'John';
 var age = 28;
 
-// Type coercion
+
 console.log(firstName + ' ' + age);
 
 var job, isMarried;
